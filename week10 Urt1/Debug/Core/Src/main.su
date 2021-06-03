@@ -1,0 +1,14 @@
+main.c:88:5:main	72	static
+main.c:279:6:SystemClock_Config	88	static
+main.c:324:13:MX_USART2_UART_Init	8	static
+main.c:357:13:MX_GPIO_Init	48	static
+main.c:386:6:UARTRecieveAndResponsePolling	40	static
+main.c:398:6:yemp	80	static
+main.c:403:6:wng_press	56	static
+main.c:408:6:LED_msg	80	static
+main.c:413:6:B1_msg	48	static
+main.c:418:6:B1_press	40	static
+main.c:423:6:B1_notpress	48	static
+main.c:429:9:UARTRecieveIT	16	static
+main.c:446:6:HAL_UART_RxCpltCallback	16	static
+main.c:457:6:Error_Handler	4	static,ignoring_inline_asm
